@@ -1,0 +1,19 @@
+.container{
+  width: 100%;
+  height: auto;
+}
+.infoContainer{
+  width: 100%;
+  margin-top: 50px;
+}
+.center{
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+}
+h6{
+  font-size: 10px;
+  text-align: center;
+}
